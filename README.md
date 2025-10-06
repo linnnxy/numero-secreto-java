@@ -11,12 +11,6 @@ Um simples, porém divertido, jogo de adivinhação de números desenvolvido em 
 -   Limite de 7 tentativas para tornar o jogo mais desafiador.
 -   Opção para jogar novamente após o fim de cada partida.
 
-## 📸 Tela do Jogo
-
-*(Dica: Tire um print da sua aplicação rodando, salve como `screenshot.png` na pasta raiz do projeto e a imagem aparecerá aqui!)*
-
-![Tela do Jogo](screenshot.png)
-
 ## 🛠️ Ferramentas e Tecnologias Utilizadas
 
 Este projeto foi construído utilizando um conjunto de ferramentas padrão para desenvolvimento de aplicações desktop com Java:
